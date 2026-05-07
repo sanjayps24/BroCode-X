@@ -1,1 +1,1 @@
-## Developed By the Team BroCode-X.
+## BroCode-X
